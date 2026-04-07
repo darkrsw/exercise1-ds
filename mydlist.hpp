@@ -36,10 +36,12 @@ public:
 
 	bool isEmpty()
 	{
+		return true;
 	}
 
 	int getSize()
 	{
+		return 0;
 	}
 
 
@@ -57,6 +59,7 @@ public:
 
 	void removeFromHead()
 	{
+		
 	}
 
 
